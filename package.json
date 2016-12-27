@@ -1,8 +1,8 @@
 {
-  "name": "Electron music",
-  "productName": "Electron music",
+  "name": "Electron_music",
+  "productName": "Electron_music",
   "version": "1.0.0",
-  "description": "electron music app demo",
+  "description": "Electron music app demo",
   "main": "main.js",
   "scripts": {
     "test": "npm test",
